@@ -1,10 +1,21 @@
-# AI Interview Chatbot  
-This is an interactive **AI-powered interview chatbot** that helps users practice for IT job interviews.  
+AI Interview Chatbot - Project Overview and Code Explanation
+📌 Project Overview
+The AI Interview Chatbot is an interactive Streamlit application designed to help users practice for IT job interviews. It simulates a real interview experience by asking dynamic AI-generated questions, evaluating responses, and providing structured feedback.
 
-## Features  
-- Simulates real interview scenarios  
-- Provides dynamic AI-driven questions  
-- Gives feedback based on user responses  
+This chatbot is particularly useful for individuals preparing for Software Engineering, Data Science, and Product Management roles.
+
+🔹 Features
+✅ Personalized Interview Experience – Users input their name, experience, and skills, and the AI tailors the interview accordingly.
+✅ Role & Company Customization – Users select the job level (Junior, Mid, Senior) and company for a more realistic simulation.
+✅ Real-Time AI Conversation – The chatbot asks one question at a time, allowing users to respond naturally.
+✅ Scored Feedback System – After five interactions, AI provides an interview score (1-10) along with detailed feedback.
+✅ Restart Option – Users can reset the chatbot and start a new interview.
+
+🛠️ Technologies Used
+Python – Main programming language.
+Streamlit – Used to build the interactive UI.
+OpenAI API – Powers the AI interview questions and feedback.
+streamlit-js-eval – Used to reload the app for a new interview session.
 
 ## Installation  
 
