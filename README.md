@@ -6,6 +6,7 @@ The AI Interview Chatbot is an interactive Streamlit application designed to hel
 This chatbot is particularly useful for individuals preparing for Software Engineering, Data Science, and Product Management roles.
 
 🔹 Features
+
 ✅ Personalized Interview Experience – Users input their name, experience, and skills, and the AI tailors the interview accordingly.
 ✅ Role & Company Customization – Users select the job level (Junior, Mid, Senior) and company for a more realistic simulation.
 ✅ Real-Time AI Conversation – The chatbot asks one question at a time, allowing users to respond naturally.
